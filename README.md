@@ -46,17 +46,19 @@ The project analyzes traffic based on different protocols, including ICMP, TCP a
 
 • **Python**: The primary programming language for data analysis and model development.
 
-• Machine Learning Algorithms**: Algorithms like KNN, MLP and SVM are used for classification.
+• **Machine Learning Algorithms**: Algorithms like KNN, MLP and SVM are used for classification.
 
-• Pandas**: For data manipulation and cleaning.
+• **Pandas**: For data manipulation and cleaning.
 
-• Scikit-learn**: For machine learning model building and evaluation.
+• **Scikit-learn**: For machine learning model building and evaluation.
 
-• Spark**: Used for distributed data processing to handle large datasets.
+• **Spark**: Used for distributed data processing to handle large datasets.
 
-• Matplotlib/Seaborn**: For visualizing data and results.
+• **Matplotlib/Seaborn**: For visualizing data and results.
 
-• Seaborn/Matplotlib**: For generating interactive and static graphs of traffic data.
+• **React**: For building the frontend interface.
+
+• **Tailwind CSS**: For styling the React frontend.
 
 
 ## Thank You!
