@@ -26,7 +26,7 @@ const Home = () => {
           <div className="w-1/2 px-4 flex flex-col justify-center">
             <h1 className="text-4xl font-bold mb-4 font-giga">What is a DDoS Attack?</h1>
             <p className="text-base text-fontColor font-poppins text-justify">
-              Distributed Denial of Service (DDoS) attacks are malicious attempts to disrupt the normal functioning of targeted servers, services, or networks by overwhelming them with a flood of Internet traffic. These attacks are typically orchestrated by multiple compromised computers or devices, often forming a network known as a botnet. DDoS attacks can cause significant harm to businesses and organizations, impacting their online services, reputation and financial stability.
+              Distributed Denial of Service (DDoS) attacks are malicious attempts to disrupt the normal functioning of targeted servers, services or networks by overwhelming them with a flood of Internet traffic. These attacks are typically orchestrated by multiple compromised computers or devices, often forming a network known as a botnet. DDoS attacks can cause significant harm to businesses and organizations, impacting their online services, reputation and financial stability.
             </p>
           </div>
           <div className="w-1/2 flex justify-center">
